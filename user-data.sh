@@ -2,7 +2,7 @@
 set -eu
 
 # -------- EDIT SESUAI PROYEK KAMU ----------------------------------------
-GIT_REPO="https://github.com/<username>/<repo-nama-aplikasimu>.git"
+GIT_REPO="https://github.com/Madlag-dhihar/Cloud-Streamlit-UAS"
 SUBFOLDER=""                  
 APP_FILE="app_cloud.py"             
 ENDPOINT_NAME="credit-score-endpoint-5" 
